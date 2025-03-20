@@ -35,6 +35,7 @@
         </div>
     </section>
 
+    
 <!-- Circlular-image part -->
 
     <section class="circular-img">
