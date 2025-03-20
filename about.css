@@ -4,11 +4,13 @@
   margin: 0;
 }
 
+
 body {
   background-color: #f8eded;
   font-family: 'Ovo', serif;
   font-weight: lighter;
 }
+
 .banner {
   position: relative;
   min-height: 100vh;
@@ -20,6 +22,7 @@ body {
   padding-left: 570px;
   padding-bottom: 80px;
 }
+
 
 header {
   position: fixed;
@@ -34,6 +37,7 @@ header {
   z-index: 1000;
   transition: 0.5s;
 }
+
 header ul li a {
   position: relative;
   display: inline-block;
