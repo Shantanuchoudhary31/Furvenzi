@@ -9,6 +9,7 @@ function toggleMenu() {
     menuToggle.classList.toggle('active');
     menu.classList.toggle('active');
 }
+
 if(window.history.replaceState){
     window.history.replaceState(null, null, window.location.href);
 }
